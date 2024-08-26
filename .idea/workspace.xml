@@ -1,30 +1,197 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="d31f447f-4c22-47c1-962d-26eebe883db4" name="Changes" comment="" />
+    <list default="true" id="d31f447f-4c22-47c1-962d-26eebe883db4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/16_Aug24_Selenium Concepts and Wait/test_Lab013.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_Aug24_Selenium Concepts and Wait/test_Lab014.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/16_Aug24_Selenium Concepts and Wait/test_Lab015.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_Aug24_Selenium Exception/test_018_exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_Aug24_Selenium Exception/test_019_exceptions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_Aug24_Selenium Exception/test_020_alerts.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_Aug24_Actions and Windows and iframe/test_021_actions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_Aug24_Actions and Windows and iframe/test_022_actions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_Aug24_Actions and Windows and iframe/test_023_actions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_Aug24_Actions and Windows and iframe/test_024_actions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_Aug24_Actions and Windows and iframe/test_025_windows.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/21_Aug24_Actions and Windows and iframe/test_026_actions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/07_Aug24_Selenium/test_Sele_Lab001.py" beforeDir="false" afterPath="$PROJECT_DIR$/07_Aug24_Selenium/test_Sele_Lab001.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_Aug24_Selenium WebDriver/test_Lab002.py" beforeDir="false" afterPath="$PROJECT_DIR$/09_Aug24_Selenium WebDriver/test_Lab002.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_Aug24_Selenium WebDriver/test_Lab003.py" beforeDir="false" afterPath="$PROJECT_DIR$/09_Aug24_Selenium WebDriver/test_Lab003.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_Aug24_Selenium WebDriver/test_Lab004.py" beforeDir="false" afterPath="$PROJECT_DIR$/09_Aug24_Selenium WebDriver/test_Lab004.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_Aug24_Selenium WebDriver/test_Lab005.py" beforeDir="false" afterPath="$PROJECT_DIR$/09_Aug24_Selenium WebDriver/test_Lab005.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/09_Aug24_Selenium WebDriver/test_lab006.py" beforeDir="false" afterPath="$PROJECT_DIR$/09_Aug24_Selenium WebDriver/test_lab006.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_Aug24_Selenium Projects Locators/test_Lab007.py" beforeDir="false" afterPath="$PROJECT_DIR$/12_Aug24_Selenium Projects Locators/test_Lab007.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_Aug24_Selenium Projects Locators/test_Lab008.py" beforeDir="false" afterPath="$PROJECT_DIR$/12_Aug24_Selenium Projects Locators/test_Lab008.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_Aug24_Selenium Projects Locators/test_Lab009.py" beforeDir="false" afterPath="$PROJECT_DIR$/12_Aug24_Selenium Projects Locators/test_Lab009.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14_Aug24_Selenium Locators/test_L011.py" beforeDir="false" afterPath="$PROJECT_DIR$/16_Aug24_Selenium Concepts and Wait/test_L011.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14_Aug24_Selenium Locators/test_Lab010.py" beforeDir="false" afterPath="$PROJECT_DIR$/14_Aug24_Selenium Locators/test_Lab010.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14_Aug24_Selenium Locators/test_Lab012.py" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14_Aug24_Selenium Locators/test_Lab013.py" beforeDir="false" afterPath="$PROJECT_DIR$/16_Aug24_Selenium Concepts and Wait/test_Lab012.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14_Aug24_Selenium Locators/test_Lab014.py" beforeDir="false" afterPath="$PROJECT_DIR$/19_Aug24_Selenium Exception/test_016_exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/14_Aug24_Selenium Locators/test_Lab015.py" beforeDir="false" afterPath="$PROJECT_DIR$/19_Aug24_Selenium Exception/test_017_exceptions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;satywans&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/satywans/Py3xLearningSeleniumPrograms.git&quot;,
+    &quot;accountId&quot;: &quot;8a590bbe-1b84-4bc3-91c6-47ff593e2709&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="2kpWNSI7qoI5O9YP9j41Pe2zk43" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Python tests.Python tests for test_016_exceptions.test_vwo_login_16.executor": "Run",
+    "Python tests.Python tests for test_017_exceptions.test_vwo_login_16.executor": "Run",
+    "Python tests.Python tests for test_018_exceptions.test_vwo_login_16.executor": "Run",
+    "Python tests.Python tests for test_019_exceptions.test_vwo_login_16.executor": "Run",
+    "Python tests.Python tests for test_020_alerts.TestAlerts.test_checkbox.executor": "Run",
+    "Python tests.Python tests for test_021_actions.test_021_actions.executor": "Run",
+    "Python tests.Python tests for test_022_actions.test_022_actions.executor": "Run",
+    "Python tests.Python tests for test_023_actions.test_022_actions.executor": "Run",
+    "Python tests.Python tests for test_Lab002.test_open_vwologin.executor": "Run",
+    "Python tests.Python tests for test_Lab003.test_open_vwologin.executor": "Run",
+    "Python tests.Python tests for test_Lab004.test_open_vwologin.executor": "Debug",
+    "Python tests.Python tests for test_Lab005.test_open_vwologin.executor": "Run",
+    "Python tests.Python tests for test_Lab007.test_mini_project_1.executor": "Run",
+    "Python tests.Python tests for test_Lab008.test_mini_project_2.executor": "Run",
+    "Python tests.Python tests for test_Lab009.test_mini_project_3.executor": "Run",
+    "Python tests.Python tests for test_lab006.test_mini_project_1.executor": "Run",
+    "Python tests.Python tests in test_Lab002.py.executor": "Run",
+    "Python tests.Python tests in test_Lab004.py.executor": "Run",
+    "Python tests.Python tests in test_Sele_Lab001.py.executor": "Run",
+    "Python.test_Lab004.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Satywan\PycharmProjects\Py3xLearningSeleniumPrograms\16_Aug24_Selenium Concepts and Wait" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Python tests for test_023_actions.test_022_actions">
+    <configuration name="Python tests for test_019_exceptions.test_vwo_login_16" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Py3xLearningSeleniumPrograms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19_Aug24_Selenium Exception" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_019_exceptions.test_vwo_login_16&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_020_alerts.TestAlerts.test_checkbox" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Py3xLearningSeleniumPrograms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/19_Aug24_Selenium Exception" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_020_alerts.TestAlerts.test_checkbox&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_021_actions.test_021_actions" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Py3xLearningSeleniumPrograms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/21_Aug24_Actions and Windows and iframe" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_021_actions.test_021_actions&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_022_actions.test_022_actions" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Py3xLearningSeleniumPrograms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/21_Aug24_Actions and Windows and iframe" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_022_actions.test_022_actions&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Python tests for test_023_actions.test_022_actions" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
+      <module name="Py3xLearningSeleniumPrograms" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/21_Aug24_Actions and Windows and iframe" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_023_actions.test_022_actions&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Python tests for test_023_actions.test_022_actions" />
+        <item itemvalue="Python tests.Python tests for test_022_actions.test_022_actions" />
+        <item itemvalue="Python tests.Python tests for test_021_actions.test_021_actions" />
+        <item itemvalue="Python tests.Python tests for test_020_alerts.TestAlerts.test_checkbox" />
+        <item itemvalue="Python tests.Python tests for test_019_exceptions.test_vwo_login_16" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -42,5 +209,8 @@
       <updated>1723980958060</updated>
     </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName=".env" />
   </component>
 </project>
